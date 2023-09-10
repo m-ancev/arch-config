@@ -1,0 +1,7 @@
+configuration	{
+
+font: "Consolas 14";
+display-window: "[]";
+dpi: 150;
+}
+@theme "/home/ma/.config/rofi/ma_theme.rasi"
