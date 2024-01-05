@@ -14,6 +14,7 @@ bindsym $mod+Shift+Tab workspace prev
 bindsym $mod+b exec firefox 
 bindsym $mod+a exec pavucontrol
 bindsym $mod+d exec rofi -show drun
+bindsym $mod+Shift+p exec --no-startup-id kitty -e poweroff
 
 exec_always xrandr --output Virtual-1 --mode 1920x1080
 
